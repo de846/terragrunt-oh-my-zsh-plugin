@@ -9,4 +9,9 @@ function tg_prompt_info() {
 }
 
 # alias
-alias tg="terragrunt"
+alias tg='terragrunt'
+alias tga='terragrunt apply'
+alias tgf='terragrunt fmt'
+alias tgi='terragrunt init'
+alias tgp='terragrunt plan'
+alias tgv='terragrunt validate'
